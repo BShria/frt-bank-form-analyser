@@ -1,5 +1,5 @@
 # frt-bank-form-analyser
-This is a Web Application which extracts information from the uploaded form and displays the in the front-end.
+This is a Web Application which extracts information from the uploaded form and displays them in the front-end.
 
 Front-end : React, React Bootstrap 
 
