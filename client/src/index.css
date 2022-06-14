@@ -1,0 +1,53 @@
+*{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+body {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    background-image: url('./online-banking.jpg');
+    background-size: cover;
+    background-position: 0px -150px;
+    background-attachment: fixed;
+    width: 100vw;
+    height: 100vh;
+  }
+
+.cards-bg{
+  background-color: rgba(255, 255, 255, 0.95);
+}
+
+/* .mt-5{
+  margin-top: 0 !important;
+} */
+
+.spinner-border{
+  margin: 10px;
+}
+
+.loader{
+  width: 250px;
+  height: 60px;
+  background-color: rgba(255, 255, 255, 0.95);
+  text-align: center;
+  margin: 10px auto 0;
+  padding: 5px;
+  overflow: hidden;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+}
+
+.loader p {
+  margin-bottom: 2.5rem !important;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.text-primary{
+  color: blueviolet ! important;
+}
+
+.btn-primary{
+  background-color: blueviolet !important;
+}
